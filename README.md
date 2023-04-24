@@ -1,6 +1,10 @@
 # include<stdio.h>
-#include<>
-void main(regx52.h)
+using namespace std;
+
+int main()
 {
-  P1_0=0xfe;
+
+  system("pause");
+  
+  return 0;
 }
